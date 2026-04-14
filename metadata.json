@@ -1,0 +1,6 @@
+{
+  "name": "Cosmos Explorer 3D",
+  "description": "Une exploration immersive et interactive du système solaire en 3D, incluant les planètes, leurs lunes et leurs orbites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
